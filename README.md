@@ -1,0 +1,2 @@
+# gregor
+Hacking on kafka
